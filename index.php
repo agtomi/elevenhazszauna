@@ -13,7 +13,7 @@
                 <span class="scroll"></span>
                 <div class="head"> 
                     <div id="logo"></div>
-                    <div id="headszoveg">SZAUNABEOSZTÁS<br>2018 Március </div>
+                    <div id="headszoveg">SZAUNABEOSZTÁS<br>2018 November </div>
                 </div>
             
             <table class="table1">
@@ -36,56 +36,56 @@
            </tr>
          </tr>
         <td><br><br><br><br><b>finn<br><br>gőz</b></td>
-        <td><b>Február 26. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td>
-        <td><b>Február 27. 06.00-21.00</b><br><br>eukaliptusz<br> <br>Levendula</td> 
-        <td class="kiemeltpiros"><b>Február 28. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
-         <td><b>Március 01. 06.00-21.00</b><br><br> jázmin<br> <br>levendula</td>
-        <td class="kiemeltcitrom"><b>.Március 02. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
-         <td class="kiemeltsarga"><b>Március 03. 08.00-20.00</b><br><br>eukaliptusz<br> <br>levendula</td>
-        <td class="kiemeltpiros"><b>Március 04. 10.00-18.00</b><br>MEDITERRÁN NAP<br>jázmin<br>levendula</td>
+        <td><b></td>
+        <td><b></td> 
+        <td><b></td> 
+         <td><b>November 01. 06.00-21.00</b><br><br> jázmin<br> <br>levendula</td>
+        <td class="kiemeltcitrom"><b>November 02. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
+         <td class="kiemeltsarga"><b>November 03. 08.00-20.00</b><br><br>eukaliptusz<br> <br>levendula</td>
+        <td class="kiemeltpiros"><b>November 04. 10.00-18.00</b><br>MEDITERRÁN NAP<br>jázmin<br>levendula</td>
       
   
         <tr>
         <td><br><br><br><br><b>finn<br><br>gőz</b></td>
-        <td><b>Március 05. 06.00-21.00</b><br><br>eukaliptusz<br> <br>levendula</td>
-        <td><b>Március 06. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td> 
-        <td class="kiemeltzöld"><b>Március 07. 06.00-21.00</b><br><br> BORSMENTA<br> <br>levendula</td> 
-        <td><b>Március 08. 06.00-21.00.00</b><br><br>eukaliptusz<br> <br>Levendula</td>
-        <td class="kiemeltcitrom"><b>Március 09. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br><br>CITROMFŰ</td>
-        <td class="kiemeltsarga"><b>Március 10. 08.00-20.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
-        <td class="kiemeltpiros"><b>Március 11. 10.00-18.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td>
+        <td><b>November 05. 06.00-21.00</b><br><br>eukaliptusz<br> <br>levendula</td>
+        <td><b>November 06. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td> 
+        <td class="kiemeltzöld"><b>November 07. 06.00-21.00</b><br><br> BORSMENTA<br> <br>levendula</td> 
+        <td><b>November 08. 06.00-21.00.00</b><br><br>eukaliptusz<br> <br>Levendula</td>
+        <td class="kiemeltcitrom"><b>November 09. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br><br>CITROMFŰ</td>
+        <td class="kiemeltsarga"><b>November 10. 08.00-20.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
+        <td class="kiemeltpiros"><b>November 11. 10.00-18.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td>
           </tr>
      <tr>     <tr>
         <td><br><br><br><br><b>finn<br><br>gőz</b></td>
-        <td><b>Március 12. 06.00-21.00</b><br><br>eukaliptusz<br> <br>levendula</td>
-        <td class="kiemeltpiros"><b>Március 13. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
-        <td class="kiemeltsarga"><b>Március 14. 06.00-21.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
-        <td><b>Március 15. 10.00-18.00</b><br><br>borsmenta<br> <br>Kakukkfű</td>
-        <td><b>Március 16. 08.00-20.00</b><br><br>jázmin<br> <br>levendula</td> 
-        <td class="kiemeltcitrom"><b>Március 17. 08.00-20.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
-        <td><b>Március 18. 10.00-18.00</b><br><br>eukaliptusz<br> <br>Levendula</b></td> 
+        <td><b>November 12. 06.00-21.00</b><br><br>eukaliptusz<br> <br>levendula</td>
+        <td class="kiemeltpiros"><b>November 13. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
+        <td class="kiemeltsarga"><b>November 14. 06.00-21.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
+        <td><b>November 15. 10.00-18.00</b><br><br>borsmenta<br> <br>Kakukkfű</td>
+        <td><b>November 16. 08.00-20.00</b><br><br>jázmin<br> <br>levendula</td> 
+        <td class="kiemeltcitrom"><b>November 17. 08.00-20.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
+        <td><b>November 18. 10.00-18.00</b><br><br>eukaliptusz<br> <br>Levendula</b></td> 
      
      <tr>
         <td><br><br><br><br><b>finn<br><br>gőz</b></td>
-        <td><b>Március 19. 06.00-21.00</b><br><br>eukaliptusz<br> <br>Levendula</td>
-        <td><b>Március 20. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td> 
-        <td class="kiemeltzöld"><b>Március 21. 06.00-21.00</b><br><br> BORSMENTA<br> <br>levendula</td>
-        <td><b>Március 22. 06.00-21.00</b><br><br>eukaliptusz<br> <br>kakukkfű</td>
-        <td class="kiemeltcitrom"><b>Március 23. 06.00-21.00</b><br>FÜVESNAP<br>CITROM-MENTA<br> <br>CITROMFŰ</td>
-        <td class="kiemeltsarga"><b>Március 24. 08.00-20.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
-        <td class="kiemeltpiros"><b>Március 25. 10.00-18.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td>
+        <td><b>November 19. 06.00-21.00</b><br><br>eukaliptusz<br> <br>Levendula</td>
+        <td><b>November 20. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td> 
+        <td class="kiemeltzöld"><b>November 21. 06.00-21.00</b><br><br> BORSMENTA<br> <br>levendula</td>
+        <td><b>November 22. 06.00-21.00</b><br><br>eukaliptusz<br> <br>kakukkfű</td>
+        <td class="kiemeltcitrom"><b>November23. 06.00-21.00</b><br>FÜVESNAP<br>CITROM-MENTA<br> <br>CITROMFŰ</td>
+        <td class="kiemeltsarga"><b>November 24. 08.00-20.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
+        <td class="kiemeltpiros"><b>November 25. 10.00-18.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td>
           </tr>
  <tr>
          </tr>
          </tr>
         <td><br><br><br><br><b>finn<br><br>gőz</b></td>
-        <td><b>Március 26. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td>
-        <td><b>Március 27. 06.00-21.00</b><br><br>eukaliptusz<br> <br>Levendula</td> 
-        <td class="kiemeltpiros"><b>Március 28. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
-         <td><b>Március 29. 06.00-21.00</b><br><br> jázmin<br> <br>levendula</td>
-        <td class="kiemeltcitrom"><b>.Március 30. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
-         <td class="kiemeltsarga"><b>Március 31. 08.00-20.00</b><br><br>eukaliptusz<br> <br>levendula</td>
-        <td class="kiemeltpiros"><b>Április 01. 10.00-18.00</b><br>MEDITERRÁN NAP<br>jázmin<br>levendula</td>
+        <td><b>November 26. 06.00-21.00</b><br><br>jégmenta<br> <br>Levendula</td>
+        <td><b>November 27. 06.00-21.00</b><br><br>eukaliptusz<br> <br>Levendula</td> 
+        <td class="kiemeltpiros"><b>November 28. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
+         <td><b>November 29. 06.00-21.00</b><br><br> jázmin<br> <br>levendula</td>
+        <td class="kiemeltcitrom"><b>.November 30. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
+         <td class="kiemeltsarga"><b>December 01. 08.00-20.00</b><br><br>eukaliptusz<br> <br>levendula</td>
+        <td class="kiemeltpiros"><b>December 02. 10.00-18.00</b><br>MEDITERRÁN NAP<br>jázmin<br>levendula</td>
       
         <td></td>
         <td></td>
