@@ -39,7 +39,7 @@
         <td><b></td>
         <td><b></td> 
         <td><b></td> 
-         <td><b>November 01. 06.00-21.00</b><br><br> jázmin<br> <br>levendula</td>
+         <td><b>November 01. SZÜNNAP</b></td>
         <td class="kiemeltcitrom"><b>November 02. 06.00-21.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
          <td class="kiemeltsarga"><b>November 03. 08.00-20.00</b><br><br>eukaliptusz<br> <br>levendula</td>
         <td class="kiemeltpiros"><b>November 04. 10.00-18.00</b><br>MEDITERRÁN NAP<br>jázmin<br>levendula</td>
@@ -60,8 +60,8 @@
         <td><b>November 12. 06.00-21.00</b><br><br>eukaliptusz<br> <br>levendula</td>
         <td class="kiemeltpiros"><b>November 13. 06.00-21.00</b><br>FINN NAP<br>Erdeifenyő<br>+fenyőkátrány<br>Nyírfalevél</td> 
         <td class="kiemeltsarga"><b>November 14. 06.00-21.00</b><br>MEDITERRÁN NAP<br>Töröknarancs<br>levendula</td>
-        <td><b>November 15. 10.00-18.00</b><br><br>borsmenta<br> <br>Kakukkfű</td>
-        <td><b>November 16. 08.00-20.00</b><br><br>jázmin<br> <br>levendula</td> 
+        <td><b>November 15. 06.00-21.00</b><br><br>borsmenta<br> <br>Kakukkfű</td>
+        <td><b>November 16. 06.00-21.00</b><br><br>jázmin<br> <br>levendula</td> 
         <td class="kiemeltcitrom"><b>November 17. 08.00-20.00</b><br>FÜVESNAP<br>CITROM<br> <br>CITROMFŰ</td>
         <td><b>November 18. 10.00-18.00</b><br><br>eukaliptusz<br> <br>Levendula</b></td> 
      
