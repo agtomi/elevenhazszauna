@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
     <head>
-        <title>Eleven Ház Fitness és Fallabda Szauna</title>
+        <title>Eleven Ház Fitness és Fallabda Órarend</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <meta name="description" content="Eleven Ház Fitness és Fallabda Órarend" />
         <link rel="stylesheet" href="css/orarend.css" type="text/css" media="screen"/>
@@ -10,9 +10,9 @@
 <body>
    <div id="content">                
    <div id="headszoveg">Aktuális hét szaunaprogramja</div>
-   <img src="https://www.dropbox.com/s/erwlyzwqxzojfya/heti%20szauna%201.jpg?dl=1" alt="Aktuális hét szaunaprogramja" >
+   <img src="https://www.dropbox.com/s/erwlyzwqxzojfya/heti%20szauna%201.jpg?dl=1" alt="Aktuális hét szaunaprogramja" width="770px">
    <div id="headszoveg">Jövő hét szaunaprogramja</div>    
-   <img src="https://www.dropbox.com/s/m0jylb89hmb1i90/heti%20szauna%202.jpg?dl=1" alt="Jövő hét szaunaprogramja" >
+   <img src="https://www.dropbox.com/s/m0jylb89hmb1i90/heti%20szauna%202.jpg?dl=1" alt="Jövő hét szaunaprogramja" width="770px">
    <div class="szoveg">
       <p><b>Finn szaunánk 90 C-os, 8 - 10 fő számára, míg a gőzszaunánk 50 C-os, automata illatadagolással 4 fő számára közösségi szaunák. Infra szaunánk kíméletes 35-40 C-on működik, a lábzónában igény szerint lekapcsolható a fűtés. Az infra szauna bejelentkezéssel foglalható max 2 fő számára. Bejelentkezés az Infraszaunára:</b></p>
       <p>Tel.:+36(57) 430-551 </p>
