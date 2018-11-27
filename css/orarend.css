@@ -32,6 +32,9 @@
             color:#888;
             background: #fff;
         }
+        #content{
+            background-color:#fff;
+        }
 .szoveg{
     font-family: "Trebuchet MS", sans-serif;
     font-size: 16px;
