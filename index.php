@@ -12,8 +12,7 @@
         </style>
     </head>
 
-<body> 
-    <div id="fb-root"></div>
+<body scroll="no"> 
     <div id="headszoveg">Aktuális hét szaunaprogramja</div>
     <div><img src="https://www.dropbox.com/s/erwlyzwqxzojfya/heti%20szauna%201.jpg?dl=1" alt="Aktuális hét szaunaprogramja"></div>   
     <div id="headszoveg">Jövő hét szaunaprogramja</div>    
