@@ -9,6 +9,7 @@
             font-weight: normal;
             letter-spacing: normal;
             background: #f0f0f0;
+            overflow:hidden;
         }
         .head{
             color:#888;
