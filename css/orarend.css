@@ -30,10 +30,13 @@
             letter-spacing:4px;
             color:#888;
         }
-        #logo{
-            float:left;
-         /*   content : url(../images/logo.jpg);*/
-            background-image: url(../images/logo.jpg);
-            width: 392px;
-            height: 106px;
-        }
+.szoveg{
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.4em;
+    font-style: normal;
+    border-collapse:separate;
+    color:#666;
+    text-shadow:1px 1px 1px #fff;
+} 
