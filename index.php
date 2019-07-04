@@ -15,7 +15,7 @@
 <body>
     <div id="content">
        
-          <p><b>Finn szaunánk 90 C-os, 8 - 10 fő számára, míg a gőzszaunánk 50 C-os, automata illatadagolással 4 fő számára közösségi szaunák. Infra szaunánk kíméletes 35-40 C-on működik, a lábzónában igény szerint lekapcsolható a fűtés. Az infra szauna bejelentkezéssel foglalható max 2 fő számára. Bejelentkezés az Infraszaunára:</b></p>
+          <p><b>Nyári időszakban szaunáink csak kedden és szombaton üzemelnek. Finn szaunánk 90 C-os, 8 - 10 fő számára, míg a gőzszaunánk 50 C-os, automata illatadagolással 4 fő számára közösségi szaunák. Infra szaunánk kíméletes 35-40 C-on működik, a lábzónában igény szerint lekapcsolható a fűtés. Az infra szauna bejelentkezéssel foglalható max 2 fő számára. Bejelentkezés az Infraszaunára:</b></p>
           <p>Tel.:+36(57) 430-551 </p>
           <p>Mobil: +36(30) 53-57-257</p>           
         </div>
